@@ -1,2 +1,2 @@
-# jakarta-ee-tut
+# jee-exercise 
 My Jakarta EE web applications exercise.
