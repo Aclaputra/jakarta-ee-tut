@@ -5,6 +5,11 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Testing JSP</title>
+<style>
+	body {
+		background-color: lightblue;
+	}
+</style>
 </head>
 <body>
 
