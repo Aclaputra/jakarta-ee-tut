@@ -1,2 +1,2 @@
 # jee-exercise 
-My Jakarta EE web applications exercise.
+My Java/Jakarta EE web applications exercise.
